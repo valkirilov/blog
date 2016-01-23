@@ -1,8 +1,9 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
-rss: /atom.xml
+  About: http://valkirilov.github.io
+  #Archives: /archives
+#rss: /atom.xml
 
 # Content
 excerpt_link: Read More
@@ -19,16 +20,16 @@ widgets:
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
-# - category
-# - tagcloud
-# - archive
+- category
+- tagcloud
+- archive
 
 # widget behavior
 archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-34075082-1
 favicon: /favicon.png
 twitter:
 google_plus:
