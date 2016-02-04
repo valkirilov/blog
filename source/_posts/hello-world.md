@@ -49,10 +49,11 @@ hexo server
 ```
 This will start a local server. By default, this is at http://localhost:4000/. You can pass some configuration details, for more information check the [official documentation](https://hexo.io/docs/commands.html#server).
 
-You know the basics now and can continue alone. You can use the [Hexo Docs](https://hexo.io/docs/) which will answer all of your questions. Now I want to publish it as my first post and will use this handy command:
+You know the basics now and can continue alone. You can use the [Hexo Docs](https://hexo.io/docs/) which will answer all of your questions. 
+I am still reasearching the available plugings for Hexo but I suggest you to try [Hexo Admin](https://github.com/jaredly/hexo-admin) - itis really helpfull and looks cool. Now I want to publish it as my first post and will use this handy command:
 
 ```bash
-hexo publush
+hexo deploy
 ```
 
 
