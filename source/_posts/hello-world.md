@@ -58,5 +58,5 @@ hexo deploy
 
 
 ---
-date: 2016-01-28 19:53:33
+date: 2016-01-28
 author: Valentin Kirilov
