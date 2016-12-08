@@ -12,7 +12,7 @@ date: 2016-09-25 13:52:00
 ---
 ---
 
-{% asset_img cover.png %}
+{% asset_img cover.png Easy-math %}
 
 ## What Easy-math is?
 It's a simple game that challenges your brain and speed of reaction with easy math problems. The game has a few different modes for playing and it allows you to play different levels and difficulties.
