@@ -2,6 +2,14 @@
 Valentin Kirilov - Blog
 ===
 
+## Setup
+
+``` bash
+npm install hexo-cli -g
+npm install
+hexo server
+```
+
 ## Quick Start
 
 ### Create a new post
